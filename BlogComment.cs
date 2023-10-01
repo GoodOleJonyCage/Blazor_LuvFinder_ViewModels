@@ -2,7 +2,7 @@
 
 namespace LuvFinder_ViewModels
 {
-    public class BlogComment
+    public class BlogComment 
     {
         public int ID { get; set; }
         public int BlogID { get; set; }
