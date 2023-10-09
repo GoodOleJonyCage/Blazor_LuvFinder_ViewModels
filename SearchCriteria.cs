@@ -9,6 +9,9 @@
         public int SelectedSeekingGender { get; set; }
         public List<Gender> SeekingGenders { get; set; }
 
+        public int SelectedMaritalStatus { get; set; }
+        public List<MaritalStatus> MaritalStatuses { get; set; }
+
         public int SelectedMinAge { get; set; }
         public int SelectedMaxAge { get; set; }
 
